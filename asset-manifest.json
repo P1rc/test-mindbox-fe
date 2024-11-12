@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/test-mindbox-fe/static/js/main.bd938e6d.js",
+    "index.html": "/test-mindbox-fe/index.html",
+    "main.bd938e6d.js.map": "/test-mindbox-fe/static/js/main.bd938e6d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bd938e6d.js"
+  ]
+}
